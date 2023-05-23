@@ -1,3 +1,4 @@
+
 const OPTInputs = document.querySelectorAll("input");
 const button = document.querySelector("button");
 
@@ -28,8 +29,9 @@ OPTInputs.forEach((input) => {
             }
         }
     });
-    if (input.value >1) {
-        alert("Har bir katakka faqat bitta raqam yoziladi!");
-        nextInput.hasAttribute("disabled");
-    }
+    // if (input.value > 1) {
+    //     alert("Har bir katakka faqat bitta raqam yoziladi!");
+    //     nextInput.hasAttribute("disabled");
+    // }
 })
+
