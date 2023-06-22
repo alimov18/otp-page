@@ -1,11 +1,5 @@
-[
-	{
-		"image":"http://akkurgan.uz/image/1.jpg"
-	},
-	{
-		"image":"http://akkurgan.uz/image/2.jpg"
-	},
-	{
-		"image":"http://akkurgan.uz/image/3.jpg"
-	}
-]
+{
+	"image": [
+		"http://akkurgan.uz/image/1.jpg","http://akkurgan.uz/image/2.jpg","http://akkurgan.uz/image/3.jpg"
+	]
+}
