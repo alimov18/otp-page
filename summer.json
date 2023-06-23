@@ -1,11 +1,11 @@
 {
     "image": [
-        "image/yozgisavdo/un.jpg",
-        "image/yozgisavdo/yog.jpg",
-        "image/yozgisavdo/shlanka.jpg",
-        "image/yozgisavdo/ventilyator.jpg",
-        "image/yozgisavdo/suv.jpg",
-        "image/yozgisavdo/telefon.jpg"
+        "http://akkurgan.uz/image/yozgisavdo/un.jpg",
+        "http://akkurgan.uz/image/yozgisavdo/yog.jpg",
+        "http://akkurgan.uz/image/yozgisavdo/shlanka.jpg",
+        "http://akkurgan.uz/image/yozgisavdo/ventilyator.jpg",
+        "http://akkurgan.uz/image/yozgisavdo/suv.jpg",
+        "http://akkurgan.uz/image/yozgisavdo/telefon.jpg"
     ],
     "name": [
         "Bug'doy uni Melek birinchi nav, 1 kg",
